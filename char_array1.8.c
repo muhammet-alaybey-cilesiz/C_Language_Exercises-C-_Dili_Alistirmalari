@@ -5,11 +5,11 @@
 // Kitap adını ve yazarını ekrana yazdıran program
 
 int main(){
-    char book_name[40]="Mechatronics Engineering";
-	char author_name[40]="Engineer Mehmet";
+    const char book_name[40]="Mechatronics Engineering";
+    const char author_name[40]="Engineer Mehmet";
 	
-	printf("Book Name: %s\n",book_name);
-	printf("Author Name: %s\n",author_name);
+    printf("Book Name: %s\n",book_name);
+    printf("Author Name: %s\n",author_name);
 
     return 0;
 }
