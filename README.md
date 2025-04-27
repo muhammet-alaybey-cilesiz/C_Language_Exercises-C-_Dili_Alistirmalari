@@ -11,7 +11,9 @@
 | average1.7.c              | İki sınav notunun ortalamasını hesaplar ve geçme/kalma durumunu belirtir | Calculates the average of two exams and shows pass/fail status |
 | char_array1.8.c           | Sabit bir kitap adı ve yazar bilgisi ekrana yazdırır                     | Prints static book name and author information |
 | char_array1.9.c           | Kullanıcıdan kitap bilgisi alıp ekrana yazdırır (fgets kullanılarak)     | Takes book information from the user and prints it (using fgets) |
-
+| temperature_study1.10.c   | Girilen sıcaklık değerine göre renk çıktısı verir                        | Gives color output based on entered temperature value|
+| using_pow_function1.11.c  | pow fonksiyonunu kullanarak üssü hesaplar                                | Calculates the power using the pow function |
+| pow_function_logic1.12.c  | Kendi mypow fonksiyonumuzu yazarak üssü hesaplar                         | Calculates the power using our custom mypow function|
 ## TR
 
 Bu repo, C dilinde yazdığım temel seviye algoritma ve programlama çalışmalarını içermektedir.  
