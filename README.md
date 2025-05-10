@@ -1,6 +1,6 @@
 ## C Dili Alıştırmaları - C Language Exercises
 
-| Dosya Adı                 | Açıklama (TR)                                                            | Description (EN) |
+| Dosya Adı (File Name)     | Açıklama (TR)                                                            | Description (EN) |
 |---------------------------|--------------------------------------------------------------------------|------------------------------------------------------------| 
 | karsilastirma1.1.c        | Girilen iki sayıyı karşılaştırır                                         | Compares two entered numbers |
 | sayituru1.2.c             | Girilen iki sayının pozitif/negatif durumunu kontrol eder                | Checks if the two entered numbers are positive or negative |
@@ -14,6 +14,9 @@
 | temperature_study1.10.c   | Girilen sıcaklık değerine göre renk çıktısı verir                        | Gives color output based on entered temperature value|
 | using_pow_function1.11.c  | pow fonksiyonunu kullanarak üssü hesaplar                                | Calculates the power using the pow function |
 | pow_function_logic1.12.c  | Kendi mypow fonksiyonumuzu yazarak üssü hesaplar                         | Calculates the power using our custom mypow function|
+| number_printing1.13.c     | Belirtilen aralık ve adımda sayıları yazdırır                            | Prints numbers in the specified range and step size|
+| switch1.14.c              | Not ortalamasına göre harf notunu switch-case ile belirler               | Determines the letter grade using switch-case based on average score|
+| fibonacci_sequence1.15.c  | Fibonacci dizisi, veri boyutu ve buffer temizliği                        | Fibonacci sequence , data size and buffer cleaning|
 ## TR
 
 Bu repo, C dilinde yazdığım temel seviye algoritma ve programlama çalışmalarını içermektedir.  
