@@ -12,7 +12,7 @@ int main(){
 		printf("End value: ");
 		scanf("%d",&end);
 		printf("Step size: ");
-	    scanf("%d",&step_size);
+	        scanf("%d",&step_size);
 		if(step_size == 0){
 			printf("Step size cannot be zero. Please enter a valid value.\n"); //Adım boyutu sıfır olamaz. Lütfen geçerli bir değer girin.
 		}
@@ -25,7 +25,7 @@ int main(){
 		else {
 			break;
 		}
-    }
+	}
 
 	if(step_size > 0){
 		for(int i=start; i<=end; i+=step_size){
@@ -35,7 +35,7 @@ int main(){
 	else{
 		for(int i=start; i>=end; i+=step_size){
 		printf("%d\n",i);
-	    }
+		}
 	}
 
     return 0;
