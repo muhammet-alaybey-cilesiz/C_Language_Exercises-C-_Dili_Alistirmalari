@@ -14,12 +14,12 @@ int main(){
 		case 9: 
 		 printf("AA");        // 90 <= avarage <= 100 : AA
 		break; 
-	    case 8:
+	        case 8:
 		case 7: 
 		 printf("BB");        // 65 <= avarage < 90 : BB
 
 		break;
-        case 6:
+                case 6:
         	if(a>=65){
 			printf("BB");	   
 		    } 
