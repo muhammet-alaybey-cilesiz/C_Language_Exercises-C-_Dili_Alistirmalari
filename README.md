@@ -17,6 +17,9 @@
 | number_printing1.13.c     | Belirtilen aralık ve adımda sayıları yazdırır                            | Prints numbers in the specified range and step size|
 | switch1.14.c              | Not ortalamasına göre harf notunu switch-case ile belirler               | Determines the letter grade using switch-case based on average score|
 | fibonacci_sequence1.15.c  | Fibonacci dizisi, veri boyutu ve buffer temizliği                        | Fibonacci sequence , data size and buffer cleaning|
+|continue_and_break_logic1.16.c|Döngülerde continue ve break komutlarının kullanımını gösterir.        | Demonstrates the usage of continue and break in loops.	|
+|factoriel1.17.c            | Giriş kontrolü ve taşma önlemesi ile faktöriyel hesaplar (20’ye kadar).  | Calculates factorials with input validation and overflow protection (up to 20).|
+|calculator1.18.c           | Girdi ve işlem hatalarını önleyen basit bir hesap makinesi uygulamasıdır.| A simple calculator with error handling for input and operations.|
 ## TR
 
 Bu repo, C dilinde yazdığım temel seviye algoritma ve programlama çalışmalarını içermektedir.  
