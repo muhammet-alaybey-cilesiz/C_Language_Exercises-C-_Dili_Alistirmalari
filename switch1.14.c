@@ -23,8 +23,8 @@ int main(){
         	if(a>=65){
 			printf("BB");	   
 		    } 
-		    else{
-		    printf("CC");     // 60 <= avarage < 65  : CC 
+		else{
+			printf("CC");     // 60 <= avarage < 65  : CC 
  		    }
 		break;
 		case 5:
